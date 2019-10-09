@@ -44,7 +44,7 @@ body > header a{
 
 /* Section Left Styles */
 
-section#left h1{
+section#left article h1{
    color: rgb(211, 211, 211);
    text-shadow: black 0px 0px 5px;
 }
